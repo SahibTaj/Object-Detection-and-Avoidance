@@ -13,7 +13,6 @@ A Python-based system that uses a camera feed to detect objects in real-time and
 - [Technologies Used](#technologies-used)  
 - [Installation & Setup](#installation--setup)  
 - [How It Works](#how-it-works)  
-- [Warning](#warning)  
 - [Contributing](#contributing)  
 
 ---
@@ -90,3 +89,4 @@ Fork the repository
 Create a feature branch
 
 Submit a pull request
+

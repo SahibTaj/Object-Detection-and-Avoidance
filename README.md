@@ -69,6 +69,8 @@ If using Raspberry Pi / Jetson Nano, connect motors via GPIO or serial.
 
 Update the motor_control.py file with correct pin numbers or serial commands.
 
+---
+
 ## 🔍 How It Works
 1.The rover captures video frames from its camera.
 
@@ -80,7 +82,7 @@ Update the motor_control.py file with correct pin numbers or serial commands.
 
 5.Loop continues for continuous navigation.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,4 +91,5 @@ Fork the repository
 Create a feature branch
 
 Submit a pull request
+
 
